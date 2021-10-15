@@ -6,5 +6,6 @@
 public class BranchTestMain {
     public static void main(String[] args) {
         System.out.println("main1");
+        System.out.println("dev2");
     }
 }
